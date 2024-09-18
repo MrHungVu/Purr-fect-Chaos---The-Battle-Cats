@@ -129,7 +129,7 @@
 
    - **Competitive and Jealous Tendencies:**
      - Players dislike being outdone, motivating them to act to improve their position.
-     - **"GATO" Effect (Jealousy)** provides a strong incentive for continuous participation.
+     - **(Jealousy)** provides a strong incentive for continuous participation.
 
    - **Attraction of Chance Mechanisms:**
      - **Uncertainty** in spinning stimulates the **brain's reward system**, creating excitement.
